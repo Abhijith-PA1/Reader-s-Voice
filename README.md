@@ -51,7 +51,7 @@ Frontend will run on: https://readers-voice.netlify.app
 
 # Deployment
 
-* Deploy frontend on vercel
+* Deploy frontend on netlify
 
 # Author
 
