@@ -43,7 +43,7 @@ frontend/
 cd frontend
 npm install
 npm start
-Frontend will run on: http://localhost:5173
+Frontend will run on: https://readers-voice.netlify.app
 
 # Screenshots
 
