@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { getHomeBookAPI } from "../Services/Allapi";
+import { getHomeBookAPI } from "../Services/allAPI";
 
 function Home() {
   const [bookimg, setBookimg] = useState([]);
